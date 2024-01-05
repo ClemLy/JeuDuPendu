@@ -27,7 +27,7 @@ Avant d'utiliser JeuDuPendu, assurez-vous de remplir les prérequis suivants :
 
 Lorsque vous accédez au site, vous pouvez choisir vos thèmes et votre difficulté allant de Facile à Abominable. Les thèmes sont variés : Programmation, Musique, Sports, Cinéma, Animaux, Mode, et plus encore !
 
-Vous avez la possibilité de laisser le programme choisir votre thème et/ou votre difficulté en séléectionnant "Aléatoire".
+Vous avez la possibilité de laisser le programme choisir votre thème et/ou votre difficulté en sélectionnant "Aléatoire".
 
 Cliquez sur "Commencez !" et c'est parti !
 
