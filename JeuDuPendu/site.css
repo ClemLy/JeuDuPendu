@@ -1,0 +1,37 @@
+body
+{
+	font-family: Arial, sans-serif;
+	text-align: center;
+	margin-top: 50px;
+}
+
+h1
+{
+	color: #333;
+}
+
+#motADeviner
+{
+	font-size: 24px;
+	margin: 20px 0;
+}
+
+#propositions
+{
+	font-size: 18px;
+	margin-top: 20px;
+}
+
+#finJeu
+{
+	font-size: 18px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.dessinPendu
+{
+	stroke:rgb(0,0,0);
+	stroke-width:2;
+	fill: transparent;
+}
